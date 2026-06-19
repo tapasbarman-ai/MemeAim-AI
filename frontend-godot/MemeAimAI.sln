@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeAimAI", "MemeAimAI.csproj", "{DC671433-B032-4B3A-86E0-6BAD271D797A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC671433-B032-4B3A-86E0-6BAD271D797A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC671433-B032-4B3A-86E0-6BAD271D797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC671433-B032-4B3A-86E0-6BAD271D797A}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{DC671433-B032-4B3A-86E0-6BAD271D797A}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{DC671433-B032-4B3A-86E0-6BAD271D797A}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{DC671433-B032-4B3A-86E0-6BAD271D797A}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
