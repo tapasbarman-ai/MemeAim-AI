@@ -1,0 +1,21 @@
+# Godot build and cache directories
+frontend-godot/.godot/
+frontend-godot/.mono/
+frontend-godot/bin/
+frontend-godot/obj/
+frontend-godot/MemeAimAI.csproj.user
+
+# Python cache & virtual environment
+**/__pycache__/
+*.pyc
+ai-python/venv/
+ai-python/.env
+
+# Go binaries & env files
+backend-go/.env
+backend-go/backend-go
+backend-go/backend-go.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
